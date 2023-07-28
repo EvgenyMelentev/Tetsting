@@ -117,5 +117,5 @@ const styles = StyleSheet.create({
     color: 'red',
   }
 });
-
+//another comment
 export default App;
